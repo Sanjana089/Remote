@@ -1,1 +1,3 @@
 Making changes to existing file.
+
+Second change from feature.
