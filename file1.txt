@@ -5,6 +5,10 @@ Second change to the file.
 
 Second change from feature.
 
+<<<<<<< HEAD
 >>>>>>> edfdd2e69cdceb126b9b3e8af861fefb3e224993
 
 Changes made by person 1.
+=======
+changes made by person 2.
+>>>>>>> 9abdfe4257fb5051105a488d02bcabd2d0bdf838
